@@ -1,3 +1,4 @@
+#PRACTICE USING DEF, LOOPS, IF-ELSE
 import random as rand
 import sys
 
