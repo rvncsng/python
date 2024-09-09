@@ -1,2 +1,2 @@
-# python
-Compilation of practice python codes and projects
+# Python practice
+Compilation of my practice python codes and projects
